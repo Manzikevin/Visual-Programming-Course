@@ -1,0 +1,15 @@
+/home/goodman/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net6.0/ConsoleApp2
+/home/goodman/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net6.0/ConsoleApp2.deps.json
+/home/goodman/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net6.0/ConsoleApp2.runtimeconfig.json
+/home/goodman/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net6.0/ConsoleApp2.dll
+/home/goodman/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net6.0/ConsoleApp2.pdb
+/home/goodman/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.csproj.AssemblyReference.cache
+/home/goodman/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/home/goodman/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.AssemblyInfoInputs.cache
+/home/goodman/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.AssemblyInfo.cs
+/home/goodman/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+/home/goodman/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.dll
+/home/goodman/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/refint/ConsoleApp2.dll
+/home/goodman/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.pdb
+/home/goodman/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.genruntimeconfig.cache
+/home/goodman/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ref/ConsoleApp2.dll
