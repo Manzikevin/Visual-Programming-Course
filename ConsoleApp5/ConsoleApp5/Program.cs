@@ -29,13 +29,25 @@ namespace ConsoleApp5
             Console.WriteLine($"\nTotal Sum: {sum}");
             Console.WriteLine($"Average: {average}");
 
-            if (sum < 50)
+            if (average >= 80)
             {
-                Console.WriteLine("You Failed");
+                Console.WriteLine("First Class");
+            }
+            else if (average >= 70)
+            {
+                Console.WriteLine("First Lower Class");
+            }
+            else if (average >= 60)
+            {
+                Console.WriteLine("Second Lower Class");
+            }
+            else if (average >= 50)
+            {
+                Console.WriteLine("Pass");
             }
             else
             {
-                Console.WriteLine("You Passed!");
+                Console.WriteLine("No Diploma Awarded");
             }
         }
     }
